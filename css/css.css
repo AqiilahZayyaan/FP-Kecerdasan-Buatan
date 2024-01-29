@@ -1,0 +1,42 @@
+body{
+    background-image: url(sample\ bg.png);
+    font-family: sans-serif;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+div.border{
+    box-sizing: border-box;
+    position: fixed;
+    width: 752px;
+    height: 823px;
+    left: 1008px;
+    top: 240px;
+    background: #ffffff00;
+    border-radius: 50px;
+}
+
+p{
+    font-size: 40px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #FF9999;
+    font-weight: bolder;
+}
+a{
+    font-size: 24px;
+    background: #FF9999;
+    color: white;
+    border: white 3px solid;
+    border-radius: 20px;
+    padding: 15px 120px;
+    text-decoration: none;
+    margin-left: 225px;
+}
+
+div .judul{
+    text-align: center;
+}
